@@ -3,7 +3,6 @@
 let commentsArr = [
 ];
 
-
 const comments = document.querySelector(".comments");
 const addFormBtn = document.querySelector(".add-form-button");
 // const delFormBtn = document.querySelector(".del-form-button");
